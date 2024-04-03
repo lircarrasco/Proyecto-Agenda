@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1711865118 source:f:\c++\proyectoagenda\contacto.cpp
+	"Contacto.h"
+	<iostream>
+
+1712115473 f:\c++\proyectoagenda\contacto.h
+	<string>
+
+1711846596 source:f:\c++\proyectoagenda\contactofamiliar.cpp
+	"ContactoFamiliar.h"
+	<iostream>
+
+1712113154 source:f:\c++\proyectoagenda\agenda.cpp
+	<iostream>
+	<vector>
+	"Contacto.h"
+	"ContactoFamiliar.h"
+	<algorithm>
+	"Agenda.h"
+
+1711919233 f:\c++\proyectoagenda\contactofamiliar.h
+	"Contacto.h"
+	<string>
+
+1712114527 f:\c++\proyectoagenda\agenda.h
+	<vector>
+	"Contacto.h"
+	"ContactoFamiliar.h"
+
+1711926657 source:f:\c++\proyectoagenda\main.cpp
+	<iostream>
+	<string>
+	"Agenda.h"
+	"Contacto.h"
+	"ContactoFamiliar.h"
+	"ContactoEmpresa.h"
+
+1711926372 source:f:\c++\proyectoagenda\contactoempresa.cpp
+	"ContactoEmpresa.h"
+	<iostream>
+
+1711923192 f:\c++\proyectoagenda\contactoempresa.h
+	"Contacto.h"
+	<string>
+
